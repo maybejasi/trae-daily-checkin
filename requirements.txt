@@ -1,0 +1,2 @@
+Pillow>=9.0
+uiautomation>=2.0
